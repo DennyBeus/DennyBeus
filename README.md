@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>ML Engineer · AI Agents &amp; Business Automation</strong>
+  <strong>Data Scientist & ML Engineer</strong>
 </p>
 
 <p align="center">
