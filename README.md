@@ -61,7 +61,7 @@ I build agents that check product prices and availability across marketplaces an
     </td>
   </tr>
   <tr>
-    <td width="130" valign="top"><b>Data &amp; ML</b></td>
+    <td width="130" valign="top"><b>Data; ML</b></td>
     <td valign="top">
       <img src="https://img.shields.io/badge/pandas-1E293B?style=flat-square&logo=pandas&logoColor=22D3EE" alt="pandas" />
       <img src="https://img.shields.io/badge/NumPy-1E293B?style=flat-square&logo=numpy&logoColor=22D3EE" alt="NumPy" />
@@ -89,7 +89,7 @@ I build agents that check product prices and availability across marketplaces an
     </td>
   </tr>
   <tr>
-    <td width="130" valign="top"><b>Backend &amp; Data</b></td>
+    <td width="130" valign="top"><b>Backend; Data</b></td>
     <td valign="top">
       <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
       <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL" />
