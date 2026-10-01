@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I build ML pipelines, AI agents and business automations — from collecting data to delivering working services.
+  I build ML pipelines, AI agents and practical tools for everyday business operations.
 </p>
 
 <p align="center">
